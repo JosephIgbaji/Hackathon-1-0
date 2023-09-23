@@ -1627,6 +1627,14 @@
       position: absolute;
       top: 7rem;
     }
+
+    .plain-bg{
+      width: 25rem;
+      height: 35rem;
+      left: 50%;
+      transform: translateX(-50%);
+      top: 22.1rem;
+    }
   
     
   }
