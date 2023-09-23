@@ -6,8 +6,13 @@ import Button from "./Button";
 const JudgeSection = () => {
   return (
     <div className="judging-template">
-      <div className="judging-image">
-        <img src={image} alt="idea-lamp" width="500px" />
+      <div>
+        <img
+          className="judging-image"
+          src={image}
+          alt="idea-lamp"
+          width="500px"
+        />
       </div>
       <div className="judging-right-section">
         <h2>JudgingCriteria</h2>

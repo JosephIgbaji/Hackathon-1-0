@@ -3,8 +3,8 @@ import React from "react";
 const BigIdea = ({ image, whiteSubtitle, purpleSubtitle, details }) => {
   return (
     <div className="idea-template">
-      <div className="idea-image">
-        <img src={image} alt="idea-lamp" width="400px" />
+      <div>
+        <img className="idea-image" src={image} alt="idea-lamp" width="400px" />
       </div>
       <div>
         <h2>{whiteSubtitle}</h2>
