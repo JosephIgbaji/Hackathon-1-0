@@ -5,7 +5,7 @@ import ContactPage from "./components/ContactPage";
 import Registration from "./components/Registration";
 import Home from "./components/Home";
 import { useState } from "react";
-import ClickableLinks from "./components/ClickableLinks";
+// import ClickableLinks from "./components/ClickableLinks";
 import HamburgerNav from "./components/HamburgerNav";
 
 function App() {
