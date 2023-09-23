@@ -21,8 +21,9 @@ function App() {
       {navState && <HamburgerNav />}
       <Routes>
         <Route index element={<Home />} />
+        <Route path="/*" element={<Home />} />
         <Route path="/contact" element={<ContactPage />} />
-        <Route path="/register" exact element={<Registration />} />
+        <Route path="/register" element={<Registration />} />
       </Routes>
     </div>
   );
