@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Hackathon-1-0/static/css/main.e55f4f85.css",
-    "main.js": "/Hackathon-1-0/static/js/main.58bbf1f0.js",
+    "main.css": "/Hackathon-1-0/static/css/main.02a8b381.css",
+    "main.js": "/Hackathon-1-0/static/js/main.760c83a4.js",
     "static/media/man-wearing-glass.png": "/Hackathon-1-0/static/media/man-wearing-glass.cce00f68f91b4bb23253.png",
     "static/media/9486889 1.png": "/Hackathon-1-0/static/media/9486889 1.831852ec9d7b3e397741.png",
     "static/media/8046554 1.png": "/Hackathon-1-0/static/media/8046554 1.476fbb06c032933765aa.png",
@@ -44,11 +44,11 @@
     "static/media/ClashDisplay-Extralight.woff2": "/Hackathon-1-0/static/media/ClashDisplay-Extralight.8f792be62d02ca420577.woff2",
     "static/media/liberty-assured.png": "/Hackathon-1-0/static/media/liberty-assured.53fccac62681982ee0d5.png",
     "index.html": "/Hackathon-1-0/index.html",
-    "main.e55f4f85.css.map": "/Hackathon-1-0/static/css/main.e55f4f85.css.map",
-    "main.58bbf1f0.js.map": "/Hackathon-1-0/static/js/main.58bbf1f0.js.map"
+    "main.02a8b381.css.map": "/Hackathon-1-0/static/css/main.02a8b381.css.map",
+    "main.760c83a4.js.map": "/Hackathon-1-0/static/js/main.760c83a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.e55f4f85.css",
-    "static/js/main.58bbf1f0.js"
+    "static/css/main.02a8b381.css",
+    "static/js/main.760c83a4.js"
   ]
 }
